@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "944518007403",
+    "project_id": "smart-tourism-iq",
+    "storage_bucket": "smart-tourism-iq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944518007403:android:4e3f80def98750c7373f2e",
+        "android_client_info": {
+          "package_name": "com.example.smart_tourism_iq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944518007403-i6aag7kjud8pmaqtp2p5euavnj6ooar8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Xfx13pCCD3BSOupB-MXQNsAFXeaswhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944518007403-i6aag7kjud8pmaqtp2p5euavnj6ooar8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944518007403-prc0velsi0g0arffc3oql7omem3mjeiq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTourismIq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
